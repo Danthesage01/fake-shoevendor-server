@@ -4,12 +4,40 @@
       "id": 1,
       "brand": "Nike",
       "name": "Air Max 270",
+      "stock": 4,
       "price": 9999,
       "featured": true,
+      "shipping": true,
+      "reviews": 25,
+      "stars": 4.9,
       "description": "Your perfect sneakers for everyday use. Lightweight sneakers for trips or casual outings.  Drip and slay like a queen with the Air Max 270 Sneakers. It blends with all environments and available for women of all sizes. ",
       "gender": "women",
-      "image": "https://thesageconcepts.com/wp-content/uploads/2022/08/Nike-Air-270.png",
-      "color": [
+      "image": {
+        "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Nike-Air-270-e1663243294842.png",
+        "subImages": [
+          {
+            "id": 1,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Nike-Air-270-e1663243294842.png"
+          },
+          {
+            "id": 2,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/nike3.jpg"
+          },
+          {
+            "id": 3,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/nike5.jpg"
+          },
+          {
+            "id": 4,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/nike2.jpg"
+          },
+          {
+            "id": 5,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/AF-1-Sneakers-e1663243407781.png"
+          }
+        ]
+      },
+      "colors": [
         "#f15025",
         "#fff",
         "#FFC0CB",
@@ -20,12 +48,39 @@
       "id": 2,
       "brand": "Converse",
       "name": "Chuck 70 Vintage Canvas",
+      "stock": 0,
       "price": 4999,
       "featured": true,
+      "reviews": 123,
+      "stars": 3.3,
       "description": "Your perfect unisex sneakers for everyday use. Lightweight sneakers for trips or casual outings. Drip is eternal so don the Chuck 7- Vintage Canvas with confidence to your next outing with your friends. It is available in varying sizes for all gender.",
       "gender": "unisex",
-      "image": "https://thesageconcepts.com/wp-content/uploads/2022/08/Converse-chuck-70.png",
-      "color": [
+      "image": {
+        "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Converse-chuck-70-e1663243380275.png",
+        "subImages": [
+          {
+            "id": 1,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Converse-chuck-70-e1663243380275.png"
+          },
+          {
+            "id": 2,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/allstar6-scaled-e1663302812940.jpg"
+          },
+          {
+            "id": 3,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/allstar3.jpg"
+          },
+          {
+            "id": 4,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/allstar5-e1663302587392.jpg"
+          },
+          {
+            "id": 5,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Converse-chuck-70-e1663243380275.png"
+          }
+        ]
+      },
+      "colors": [
         "#f15025",
         "#222",
         "#062b80",
@@ -37,11 +92,39 @@
       "id": 3,
       "brand": "Addidas",
       "name": "Superstar Shoes",
+      "stock": 6,
       "price": 17999,
+      "shipping": true,
+      "reviews": 30,
+      "stars": 2.3,
       "description": "Your perfect sneakers for everyday use. Lightweight sneakers for trips or casual outings. Drip is eternal so don the Superstar Sneakers with confidence to your next outing with your friends. It is available for men of all sizes",
       "gender": "men",
-      "image": "https://thesageconcepts.com/wp-content/uploads/2022/08/Addidas-Superstar.png",
-      "color": [
+      "image": {
+        "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Addidas-Superstar-e1663243419238.png",
+        "subImages": [
+          {
+            "id": 1,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Addidas-Superstar-e1663243419238.png"
+          },
+          {
+            "id": 2,
+            "url": ""
+          },
+          {
+            "id": 3,
+            "url": ""
+          },
+          {
+            "id": 4,
+            "url": ""
+          },
+          {
+            "id": 5,
+            "url": ""
+          }
+        ]
+      },
+      "colors": [
         "#fff",
         "#062b80",
         "#222"
@@ -51,12 +134,40 @@
       "id": 4,
       "brand": "Puma",
       "name": "Mayze Classic Trainers",
+      "stock": 10,
       "price": 12999,
       "featured": true,
+      "shipping": true,
+      "reviews": 34,
+      "stars": 4.6,
       "description": "Your perfect sneakers for everyday use. Lightweight sneakers for trips or casual outings.  Drip and slay like a queen with the Mayze Classic Trainers. It blends with all environments and available for women of all sizes. ",
       "gender": "women",
-      "image": "https://thesageconcepts.com/wp-content/uploads/2022/08/Puma-Mayze.png",
-      "color": [
+      "image": {
+        "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Puma-Mayze-e1663243216721.png",
+        "subImages": [
+          {
+            "id": 1,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Puma-Mayze-e1663243216721.png"
+          },
+          {
+            "id": 2,
+            "url": ""
+          },
+          {
+            "id": 3,
+            "url": ""
+          },
+          {
+            "id": 4,
+            "url": ""
+          },
+          {
+            "id": 5,
+            "url": ""
+          }
+        ]
+      },
+      "colors": [
         "#f15025",
         "#fff",
         "#FFC0CB"
@@ -66,11 +177,38 @@
       "id": 5,
       "brand": "New Balance",
       "name": "New Balance 247",
+      "stock": 5,
       "price": 10999,
+      "reviews": 45,
+      "stars": 3.6,
       "description": "Your perfect sneakers for everyday use. Lightweight sneakers for trips or casual outings. Drip is eternal so don the New Balance 247 Sneakers with confidence to your next outing with your friends. It is available for men of all sizes",
       "gender": "men",
-      "image": "https://thesageconcepts.com/wp-content/uploads/2022/08/New-Balance-247.png",
-      "color": [
+      "image": {
+        "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/New-Balance-247-e1663243368800.png",
+        "subImages": [
+          {
+            "id": 1,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/New-Balance-247-e1663243368800.png"
+          },
+          {
+            "id": 2,
+            "url": ""
+          },
+          {
+            "id": 3,
+            "url": ""
+          },
+          {
+            "id": 4,
+            "url": ""
+          },
+          {
+            "id": 5,
+            "url": ""
+          }
+        ]
+      },
+      "colors": [
         "#fff",
         "#062b80"
       ]
@@ -79,11 +217,39 @@
       "id": 6,
       "brand": "Nike",
       "name": "AF 1 Sneakers",
+      "stock": 8,
       "price": 12999,
+      "shipping": true,
+      "reviews": 20,
+      "stars": 5.0,
       "description": "Your perfect unisex sneakers for everyday use. Lightweight sneakers for trips or casual outings. Drip is eternal so don the AF 1 Sneakers with confidence to your next outing with your friends. It is available in varying sizes for all gender.",
       "gender": "unisex",
-      "image": "https://thesageconcepts.com/wp-content/uploads/2022/08/AF-1-Sneakers.png",
-      "color": [
+      "image":  {
+        "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/AF-1-Sneakers-e1663243407781.png",
+        "subImages": [
+          {
+            "id": 1,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/AF-1-Sneakers-e1663243407781.png"
+          },
+          {
+            "id": 2,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/nike2.jpg"
+          },
+          {
+            "id": 3,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/nike5.jpg"
+          },
+          {
+            "id": 4,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Nike-Air-270-e1663243294842.png"
+          },
+          {
+            "id": 5,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/nike3.jpg"
+          }
+        ]
+      },
+      "colors": [
         "#f15025",
         "#222",
         "#062b80",
@@ -95,12 +261,39 @@
       "id": 7,
       "brand": "Addidas",
       "name": "Nizza Platform Shoes",
+      "stock": 15,
       "price": 10999,
       "featured": true,
+      "reviews": 120,
+      "stars": 4.0,
       "description": "Your perfect sneakers for everyday use. Lightweight sneakers for trips or casual outings.  Drip and slay like a queen with the Nizza Platform Shoes. It blends with all environments and available for women of all sizes. ",
       "gender": "women",
-      "image": "https://thesageconcepts.com/wp-content/uploads/2022/08/Addidas-Nizza.png",
-      "color": [
+      "image": {
+        "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Addidas-Nizza-e1663243443764.png",
+        "subImages": [
+          {
+            "id": 1,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Addidas-Nizza-e1663243443764.png"
+          },
+          {
+            "id": 2,
+            "url": ""
+          },
+          {
+            "id": 3,
+            "url": ""
+          },
+          {
+            "id": 4,
+            "url": ""
+          },
+          {
+            "id": 5,
+            "url": ""
+          }
+        ]
+      },
+      "colors": [
         "#f15025",
         "#FFC0CB",
         "#222"
@@ -110,11 +303,39 @@
       "id": 8,
       "brand": "Nike",
       "name": "Air Max 90",
+      "stock": 0,
       "price": 8499,
+      "shipping": true,
+      "reviews": 14,
+      "stars": 3.8,
       "description": "Your perfect sneakers for everyday use. Lightweight sneakers for trips or casual outings. Drip is eternal so don the Air Max 90 Sneakers with confidence to your next outing with your friends. It is available for men of all sizes.",
       "gender": "men",
-      "image": "https://thesageconcepts.com/wp-content/uploads/2022/08/Nike-Air-90.png",
-      "color": [
+      "image": {
+        "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Nike-Air-90-e1663242938299.png",
+        "subImages": [
+          {
+            "id": 1,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Nike-Air-90-e1663242938299.png"
+          },
+          {
+            "id": 2,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/nike2.jpg"
+          },
+          {
+            "id": 3,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/AF-1-Sneakers-e1663243407781.png"
+          },
+          {
+            "id": 4,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/nike5.jpg"
+          },
+          {
+            "id": 5,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Nike-Air-270-e1663243294842.png"
+          }
+        ]
+      },
+      "colors": [
         "#fff",
         "#222"
       ]
@@ -123,11 +344,39 @@
       "id": 9,
       "brand": "Addidas",
       "name": "NMD R1 Shoes",
+      "stock": 8,
       "price": 15999,
+      "shipping": true,
+      "reviews": 100,
+      "stars": 5.0,
       "description": "Your perfect sneakers for everyday use. Lightweight sneakers for trips or casual outings.  Drip and slay like a queen with the NMD R1 Shoes. It blends with all environments and available for women of all sizes. ",
       "gender": "women",
-      "image": "https://thesageconcepts.com/wp-content/uploads/2022/08/Addidas-NMD-R1.png",
-      "color": [
+      "image": {
+        "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Addidas-NMD-R1-e1663243430381.png",
+        "subImages": [
+          {
+            "id": 1,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Addidas-NMD-R1-e1663243430381.png"
+          },
+          {
+            "id": 2,
+            "url": ""
+          },
+          {
+            "id": 3,
+            "url": ""
+          },
+          {
+            "id": 4,
+            "url": ""
+          },
+          {
+            "id": 5,
+            "url": ""
+          }
+        ]
+      },
+      "colors": [
         "#f15025",
         "#fff",
         "#FFC0CB",
@@ -138,12 +387,40 @@
       "id": 10,
       "brand": "New Balance",
       "name": "New Balance 860 Core",
+      "stock": 0,
       "price": 12999,
       "featured": true,
+      "shipping": true,
+      "reviews": 20,
+      "stars": 3.0,
       "description": "Your perfect sneakers for everyday use. Lightweight sneakers for trips or casual outings. Drip is eternal so don the New Balance 860 Core Sneakers with confidence to your next outing with your friends. It is available for men of all sizes.",
       "gender": "men",
-      "image": "https://thesageconcepts.com/wp-content/uploads/2022/08/New-Balance-860.png",
-      "color": [
+      "image": {
+        "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/New-Balance-860-e1663242920298.png",
+        "subImages": [
+          {
+            "id": 1,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/New-Balance-860-e1663242920298.png"
+          },
+          {
+            "id": 2,
+            "url": ""
+          },
+          {
+            "id": 3,
+            "url": ""
+          },
+          {
+            "id": 4,
+            "url": ""
+          },
+          {
+            "id": 5,
+            "url": ""
+          }
+        ]
+      },
+      "colors": [
         "#062b80",
         "#222"
       ]
@@ -152,11 +429,38 @@
       "id": 11,
       "brand": "Reebok",
       "name": "Power Rangers F/S Hi",
+      "stock": 10,
       "price": 13999,
+      "reviews": 60,
+      "stars": 4.6,
       "description": "Your perfect sneakers for everyday use. Lightweight sneakers for trips or casual outings.  Drip and slay like a queen with the Power Rangers F/S Hi Shoes. It blends with all environments and available for women of all sizes. ",
       "gender": "women",
-      "image": "https://thesageconcepts.com/wp-content/uploads/2022/08/Reebok-PR-FS.png",
-      "color": [
+      "image": {
+        "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Reebok-PR-FS-e1663243316800.png",
+        "subImages": [
+          {
+            "id": 1,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Reebok-PR-FS-e1663243316800.png"
+          },
+          {
+            "id": 2,
+            "url": ""
+          },
+          {
+            "id": 3,
+            "url": ""
+          },
+          {
+            "id": 4,
+            "url": ""
+          },
+          {
+            "id": 5,
+            "url": ""
+          }
+        ]
+      },
+      "colors": [
         "#f15025",
         "#fff",
         "#FFC0CB",
@@ -167,11 +471,39 @@
       "id": 12,
       "brand": "Nike",
       "name": "Air Jordan 1",
+      "stock": 8,
       "price": 15999,
+      "shipping": true,
+      "reviews": 10,
+      "stars": 3.0,
       "description": "Your perfect sneakers for everyday use. Lightweight sneakers for trips or casual outings. Drip is eternal so don the Air Jordan 1 with confidence to your next outing with your friends. It is available for men of all sizes.",
       "gender": "men",
-      "image": "https://thesageconcepts.com/wp-content/uploads/2022/08/Nike-Air-Jordan.png",
-      "color": [
+      "image": {
+        "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Nike-Air-Jordan-e1663243269186.png",
+        "subImages": [
+          {
+            "id": 1,
+            "url":"https://thesageconcepts.com/wp-content/uploads/2022/08/Nike-Air-Jordan-e1663243269186.png"
+          },
+          {
+            "id": 2,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/nikeJ7.jpg"
+          },
+          {
+            "id": 3,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/nike5.jpg"
+          },
+          {
+            "id": 4,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/nikeJ3.jpg"
+          },
+          {
+            "id": 5,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/nikeJ1.jpg"
+          }
+        ]
+      },      
+      "colors": [
         "#fff",
         "#062b80",
         "#222"
@@ -181,11 +513,38 @@
       "id": 13,
       "brand": "New Balance",
       "name": "New Balance 574",
+      "stock": 7,
       "price": 9999,
+      "reviews": 54,
+      "stars": 4.8,
       "description": "Your perfect sneakers for everyday use. Lightweight sneakers for trips or casual outings.  Drip and slay like a queen with the New Balance 574 Shoes. It blends with all environments and available for women of all sizes. ",
       "gender": "women",
-      "image": "https://thesageconcepts.com/wp-content/uploads/2022/08/New-Balance-574.png",
-      "color": [
+      "image": {
+        "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/New-Balance-574-e1663243348722.png",
+        "subImages": [
+          {
+            "id": 1,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/New-Balance-574-e1663243348722.png"
+          },
+          {
+            "id": 2,
+            "url": ""
+          },
+          {
+            "id": 3,
+            "url": ""
+          },
+          {
+            "id": 4,
+            "url": ""
+          },
+          {
+            "id": 5,
+            "url": ""
+          }
+        ]
+      },
+      "colors": [
         "#fff",
         "#222"
       ]
@@ -194,12 +553,39 @@
       "id": 14,
       "brand": "Reebok",
       "name": "Reebok S Carter",
+      "stock": 2,
       "price": 6999,
       "featured": true,
+      "reviews": 5,
+      "stars": 5.0,
       "description": "Your perfect sneakers for everyday use. Lightweight sneakers for trips or casual outings. Drip is eternal so don the Reebok S Carter Sneakers with confidence to your next outing with your friends. It is available for men of all sizes.",
       "gender": "men",
-      "image": "https://thesageconcepts.com/wp-content/uploads/2022/08/Reebok-S-Carter.png",
-      "color": [
+      "image": {
+        "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Reebok-S-Carter-e1663243328638.png",
+        "subImages": [
+          {
+            "id": 1,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Reebok-S-Carter-e1663243328638.png"
+          },
+          {
+            "id": 2,
+            "url": ""
+          },
+          {
+            "id": 3,
+            "url": ""
+          },
+          {
+            "id": 4,
+            "url": ""
+          },
+          {
+            "id": 5,
+            "url": ""
+          }
+        ]
+      },
+      "colors": [
         "#062b80",
         "#222"
       ]
@@ -208,11 +594,39 @@
       "id": 15,
       "brand": "Converse",
       "name": "Chuck All Star Move Platform",
+      "stock": 9,
       "price": 7999,
+      "shipping": true,
+      "reviews": 60,
+      "stars": 3.6,
       "description": "Your perfect sneakers for everyday use. Lightweight sneakers for trips or casual outings.  Drip and slay like a queen with the Chuck Tailor All Star Move Platform Shoes. It blends with all environments and available for women of all sizes. ",
       "gender": "women",
-      "image": "https://thesageconcepts.com/wp-content/uploads/2022/08/Converse-AllStar.png",
-      "color": [
+      "image": {
+        "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Converse-AllStar-e1663243396972.png",
+        "subImages": [
+          {
+            "id": 1,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/08/Converse-AllStar-e1663243396972.png"
+          },
+          {
+            "id": 2,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/allstar2.jpg"
+          },
+          {
+            "id": 3,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/allstar3.jpg"
+          },
+          {
+            "id": 4,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/allstar4.jpg"
+          },
+          {
+            "id": 5,
+            "url": "https://thesageconcepts.com/wp-content/uploads/2022/09/allstar5-e1663302587392.jpg"
+          }
+        ]
+      },
+      "colors": [
         "#f15025",
         "#fff",
         "#FFC0CB",
